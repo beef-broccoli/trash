@@ -1,4 +1,4 @@
-kraken_ID,ligand,SMILES,buchwald,yield_chloro_2to1_2hr,yield_doyle_Ni_suzuki_0020
+kid,ligand,smiles,buchwald,yield_chloro_2to1_2hr,yield_doyle_Ni_suzuki_0020
 1,Xphos,CC(c1cc(cc(c1c1ccccc1P(C1CCCCC1)C1CCCCC1)C(C)C)C(C)C)C,1,66,
 2,CPhos,CN(c1cccc(c1c1ccccc1P(C1CCCCC1)C1CCCCC1)N(C)C)C,1,,0.819848499
 3,SPhos,COc1cccc(c1c1ccccc1P(C1CCCCC1)C1CCCCC1)OC,1,53.5,
